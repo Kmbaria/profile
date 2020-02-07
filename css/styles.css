@@ -1,0 +1,66 @@
+h1{
+    font-size: 50px;
+      text-align: center;
+}
+h2,{
+  text-align: center;
+  color: #FDFEFE  ;
+  font-size: 30px;
+
+}
+
+h3 {
+  font-size: 25px;
+  text-align: center;
+    color: #7dc410;
+}
+h4 {
+  font-size: 25px;
+  text-align: center;
+
+  color: #7dc410;
+}
+  body{
+  background-image: url("../images/re.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  font-weight: normal!important;
+  color: #16A085 ;
+}
+
+}
+
+.pet{
+  font-size: 25px;
+  text-align: center;
+    color: #7dc410;
+}
+p.morin{
+    color: #7dc410;
+  font-size: 35px;
+  font-style: normal;
+  text-align: center;
+}
+
+body{
+background-color: #F5F5DC;
+}
+
+.test-box{
+border: 10px;
+padding: 11px;
+margin: 9px;
+margin: 11px;
+background-color: #f5f5DC;
+text-align: center;
+}
+
+.column{
+text-align: center;
+}
+.friday{
+  text-align: center;
+  color: #7dc410;
+  font-size: 15px;
+}

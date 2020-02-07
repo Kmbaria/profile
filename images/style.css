@@ -1,0 +1,72 @@
+body{
+  font-family: Calibri;
+}
+
+.container{
+  border: 1px red solid;
+  height: 800px;
+  margin-left:150px;
+  margin-right:150px;
+  background-color: #ADADAD
+}
+
+.header{
+  border: 1px blue solid;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  font-size: 45px;
+  /*margin-left:150px;*/
+  /*margin-right:150px;*/
+}
+
+.menu li{
+  list-style: none;
+  display: inline;
+  border:1px solid green;
+  background: #eee5de;
+  padding: 10px;
+  margin-left: 20px;
+  text-transform: uppercase;
+}
+
+.menu{
+  display: table;
+	margin: 10px auto;
+}
+
+
+.about-container{
+  margin-top: 50px;
+  width: auto;
+  border:1px solid purple;
+
+}
+
+.about-image{
+  height: 200px;
+  width: 20%;
+  border:1px solid black;
+  margin:2px;
+  float: left;
+}
+
+.about-content{
+  float:right;
+  width: 79%;
+  border:1px solid red;
+}
+
+
+.portfolio-container{
+  margin-top: 250px;
+  /*margin-left: 25%;*/
+  width: auto;
+  height: 150px;
+  border:1px solid green;
+
+}
+
+.portfolio-container #slider1{
+  text-align: center;
+}
