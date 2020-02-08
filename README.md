@@ -10,7 +10,7 @@ My life in coding
 Experience in coding
 My improvement in coding
 ## Site
-http://moringaschool.com 
+https://kmbaria.github.io/profile/.
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
 ## Technologies Used
