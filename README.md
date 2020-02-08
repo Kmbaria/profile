@@ -1,6 +1,6 @@
 # Portfolio
 My first project
-#### {this site briefly talks about portfolio specifically My portfolio
+#### {this site briefly talks about portfolio specifically My portfolio}
 , {5st Agust 2018}
 #### By **kmbaria**
 ## Description
@@ -18,7 +18,7 @@ http://moringaschool.com
 ## Support and contact details
 {This is just few for more details about parrots, ideas or concerns.  Mail me for more information: Kmbaria.george@gmail.com}
 
-## Support and contact details make a contribution to the code.}
+## Support and contact details make a contribution to the code.
 MAIL:Jojik.Gk@gmail.com </br>Or</br> Kmbaria.george@gmail.com
 </br>
 CONTACT ME: 0791674289
