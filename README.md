@@ -12,11 +12,11 @@ My improvement in coding
 ## Site
 https://kmbaria.github.io/profile/.
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+There are no bugs 
 ## Technologies Used
-{The languages and tools you used to create this app ARE.(HTML & Css).}
+The languages and tools you used to create this app ARE.(HTML & Css).
 ## Support and contact details
-{This is just few for more details about parrots, ideas or concerns.  Mail me for more information: Kmbaria.george@gmail.com}
+ Mail me for more information: Kmbaria.george@gmail.com
 
 ## Support and contact details make a contribution to the code.
 MAIL:Jojik.Gk@gmail.com </br>Or</br> Kmbaria.george@gmail.com
