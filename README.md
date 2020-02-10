@@ -8,7 +8,7 @@ This project is about creating a profile
 Written with guidance from moringa school.
 
 Hello , world!
-My life in coding 
+My life in coding. 
 Experience in coding
 My Improvement in coding
 pro
