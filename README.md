@@ -22,7 +22,7 @@ The languages and tools you used to create website .(HTML & Css).
  Mail me for more information: Kmbaria.george@gmail.com
 
 ## Support and contact details make a contribution to the code.
-If you experience any problem dont
+If you experience any problem dont Hesitate to E.MAIL Me
 MAIL:Jojik.Gk@gmail.com</br> Or </br> Kmbaria.george@gmail.com
 </br>
 Contact ME: 0791674289
