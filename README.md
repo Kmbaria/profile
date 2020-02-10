@@ -1,7 +1,7 @@
 # Portfolio
-My First project
+My First Project
 #### {this site briefly talks about portfolio specifically My portfolio}
-, {5st Agust 2018}
+,8 Feb 2020 
 #### By **kmbaria**
 ## Description
 Written with a little guidance from moringa school
