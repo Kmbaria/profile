@@ -1,10 +1,10 @@
 # Portfolio
 My First Project
-#### {this site briefly talks about portfolio specifically My portfolio}
+#### {This site briefly talks about portfolio specifically My portfolio}
 8 Feb 2020 
 #### By **kmbaria**
 ## Description
-This project is about creating a profile
+This project is about creating a profile 
 Written with guidance from moringa school.
 
 Hello , world!<br>
@@ -22,6 +22,7 @@ The languages and tools you used to create website .(HTML & Css).
  Mail me for more information: Kmbaria.george@gmail.com
 
 ## Support and contact details make a contribution to the code.
+If you experience any problem dont
 MAIL:Jojik.Gk@gmail.com</br> Or </br> Kmbaria.george@gmail.com
 </br>
 Contact ME: 0791674289
