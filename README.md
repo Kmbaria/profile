@@ -9,8 +9,8 @@ Written with guidance from moringa school.
 
 Hello , world!<br>
 My life in coding. <br>
-Experience in coding<br>
-My Improvement in coding<br>
+Experience in coding. <br>
+My Improvement in coding. <br>
 pro
 ## Site
 https://kmbaria.github.io/profile/.
