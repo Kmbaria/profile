@@ -21,7 +21,7 @@ The languages and tools you used to create this app ARE.(HTML & Css).
 ## Support and contact details make a contribution to the code.
 MAIL:Jojik.Gk@gmail.com</br> Or </br> Kmbaria.george@gmail.com
 </br>
-CONTACT ME: 0791674289
+Contact ME: 0791674289
 
 ### License
 MIT &copy; Jojik.GK
