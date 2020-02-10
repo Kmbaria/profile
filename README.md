@@ -19,7 +19,7 @@ The languages and tools you used to create this app ARE.(HTML & Css).
  Mail me for more information: Kmbaria.george@gmail.com
 
 ## Support and contact details make a contribution to the code.
-MAIL:Jojik.Gk@gmail.com </br>Or</br> Kmbaria.george@gmail.com
+MAIL:Jojik.Gk@gmail.com</br> Or </br> Kmbaria.george@gmail.com
 </br>
 CONTACT ME: 0791674289
 
