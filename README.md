@@ -12,7 +12,7 @@ My improvement in coding
 ## Site
 https://kmbaria.github.io/profile/.
 ## Known Bugs
-There are no bugs 
+There are no bugs at the moment since we're still working on it
 ## Technologies Used
 The languages and tools you used to create this app ARE.(HTML & Css).
 ## Support and contact details
