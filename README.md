@@ -27,4 +27,4 @@ MAIL:Jojik.Gk@gmail.com</br> Or </br> Kmbaria.george@gmail.com
 Contact ME: 0791674289
           
 ### License
-MIT &copy; Jojik.GK
+MIT &copy; NASRA
