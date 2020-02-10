@@ -4,17 +4,18 @@ My First Project
 ,8 Feb 2020 
 #### By **kmbaria**
 ## Description
-Written with a little guidance from moringa school
+Written with guidance from moringa school.
+
 Hello , world!
 My life in coding 
 Experience in coding
-My improvement in coding
+My Improvement in coding
 ## Site
 https://kmbaria.github.io/profile/.
 ## Known Bugs
 There are no bugs at the moment since we're still working on it
 ## Technologies Used
-The languages and tools you used to create this app ARE.(HTML & Css).
+The languages and tools you used to create website .(HTML & Css).
 ## Support and contact details
  Mail me for more information: Kmbaria.george@gmail.com
 
